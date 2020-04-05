@@ -1,4 +1,4 @@
-## Hello Gaess, Welcome to My GitHub Pages
+## Hi Gaess, Welcome to My GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yobelioe17/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
