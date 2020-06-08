@@ -8,4 +8,4 @@
 
 * Buat teman teman yang penasaran, langsung aja disimak berikut link yang akan membuat hari-hari anda jadi lebih berwarna!! :)
 
-* [URLs] (URLS/)
+* [URLs](URLS/)
