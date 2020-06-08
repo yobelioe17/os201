@@ -1,6 +1,6 @@
------
+---
 permalink: /URLs/
------
+---
 
 # KUMPULAN LINK MANTAP DJIWA
 [OS.VLSM.ORG](https://os.vlsm.org)
