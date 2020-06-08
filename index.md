@@ -2,7 +2,6 @@
 
 * Kenalin namaku Yobelio Ekaharja Putra. Saat ini aku sedang berkuliah di Universitas Indonesia, jurusan Sistem Informasi tahun 2018!
 
-![image](https://github.com/yobelioe17/os201/blob/master/yobel.jpg)
 
 * Web pages ini bertujuan untuk memberikan informasi seputar Operating Systems, dan yang pasti akan banyak informasi-informasi menarik di dalamnya
 
