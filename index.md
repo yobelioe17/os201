@@ -6,6 +6,9 @@
 ## What is this?
 * Web pages ini bertujuan untuk memberikan informasi seputar Operating Systems, dan yang pasti akan banyak informasi-informasi menarik di dalamnya
 
+## Why is it made for?
+* Web sederhana ini dibuat untuk memenuhi salah satu tugas yang diberikan dalam rangka pelaksanaan UAS semester genap mata kuliah Operating Systems tahun 2020.
+
 ## When is it started?
 * Nah, proyek halaman web ini dibuat pada tanggal 8 Juni 2020, dalam rangka memenuhi tugas UAS Operating Systems 2020
 
