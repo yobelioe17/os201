@@ -1,11 +1,11 @@
 Script started on Mon 01 Jun 2020 12:19:05 PM WIB
-yobelio.ekaharja@badak:~$ PS1="$ "
+]0;yobelio.ekaharja@badak: ~yobelio.ekaharja@badak:~$ PS1="$ "
 $ echo $GitHubUser
 yobelioe17
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200601-121940-2702-yobelio.ekaharja/>
+200601-121940-2702-yobelio.ekaharja/> 
 $ PS1="\$(eval \$PSTAMP)"
 200601-121950-17ae-yobelio.ekaharja/> date
 Mon Jun  1 12:20:04 WIB 2020
